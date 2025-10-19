@@ -23,3 +23,19 @@ Additionally, I cadded out the Nema 17 motor I will be using. I have quite a str
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--820a930fdc1606c4ab77006fe2892ac934d70f06/image.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1NywicHVyIjoiYmxvYl9pZCJ9fQ==--1ee0c7dbf48cafa0a72694d08722e61b1e585a14/image.png)  
 
+## 10/19/2025 - Designed & Refined Linear Rail  
+
+To begin, I wanted to design a linear rail, so my CNC can move efficiently. I started with a simple sketch of its cross section. The bearings will be 5mm steel balls that I found laying around. I printed out a short ~10cm section of the track, and one of the things that rides on top. At the start, I used 6 balls as a contact, however I realized that this had too much friction. I tried a couple designs until I found one that worked
+
+After trying it in person, I realised I could make the rail thinner, and a bit smaller, so I did that too. I spent quite a bit of time on refining the new cross section, ensuring that it would work well. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--94bb2598df25bf0db037ea49ebc7f6c5b5667bf0/image.png)
+
+This worked well, but it still had a bit of friction. I looked online for other bearing designs, and I saw that they were quite complicated, requiring a loop of bearings. I decided that this was good enough, even though it isn’t a “real” linear rail.
+
+The final linear rail I printed worked pretty great, however it still had a bit of resistance since I was not able to make a linear rail with the complexity that was small enough to be used. The bearings drag along the rail more than roll, but there is not much I can do without making it twice as big and much more complex. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c3cc1743f2ff586543de2d7d5e24a6fc96bd4766/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a371b185b0cc01a90af4d299bed6f1df6238e34b/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5a5442afffe7065ec42ddc40438e6871fc0df2e/image.png)  
+
